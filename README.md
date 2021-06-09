@@ -34,10 +34,10 @@
 
 ### Hardware
 
-|<img title="OpenSourceHardware" alt="OpenSourceHardware" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/512px-Open-source-hardware-logo.svg.png">|<img title="Jupyter Lab" alt="Jupyter Lab" width="60px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png">|<img title="WebOfThings" alt="WebOfThings" width="40px" src="https://www.w3.org/WoT/IG/wiki/images/thumb/9/9d/WOT-white.png/120px-WOT-white.png">|<img title="KiCad" width="60px" alt="KiCad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/256px-KiCad-Logo.svg.png">|<img title="Jupyter Lab" alt="Jupyter Lab" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png">|
-|---|---|---|---|---|
+|<img title="OpenSourceHardware" alt="OpenSourceHardware" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/512px-Open-source-hardware-logo.svg.png">|<img title="Jupyter Lab" alt="Jupyter Lab" width="60px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png">|<img title="WebOfThings" alt="WebOfThings" width="40px" src="https://www.w3.org/WoT/IG/wiki/images/thumb/9/9d/WOT-white.png/120px-WOT-white.png">|<img title="KiCad" width="60px" alt="KiCad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/256px-KiCad-Logo.svg.png">|
+|---|---|---|---|
 
-## Let's Connect :handshake
+## Let's Connect :handshake:
 
 |<a href="https://www.linkedin.com/in/sriharshamvs/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/sriharshamvs"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/MVSsriharsha"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:sriharshamvs@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
 |---|---|---|---|
