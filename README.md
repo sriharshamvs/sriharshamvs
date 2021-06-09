@@ -1,4 +1,4 @@
-<h1>Greetings Folks, I am <a  href="https://blog.sriharshamvs.com/">Sriharsha MVS</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Greetings Folks, I'm <a  href="https://blog.sriharshamvs.com/">Sriharsha MVS</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - :briefcase: I'm currently working as a Data Engineer
 - 🔭 I’m currently working with JAM Stack
