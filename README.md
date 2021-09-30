@@ -3,7 +3,7 @@
 - :briefcase: I'm currently working as a Data Engineer
 - 🔭 I’m currently working with JAM Stack
 - 🌱 I’m currently learning Kubernetes, Go and Machine Learning
-- :hourglass: In my free time I work on Open Hardware Projects
+- :hourglass: In my free time I work on Open Source & Open Hardware Projects
 
 ## Skill Set
 
