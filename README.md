@@ -4,8 +4,7 @@
 <h1>Greetings Folks, I'm <a  href="https://blog.sriharshamvs.com/">Sriharsha Mopidevi</a></h1>
 
 - :briefcase: I'm working as a Software Engineer at University of Pennsylvania
-- 🌱 I’m currently learning Kubernetes, Go and Machine Learning
-- :hourglass: In my free time I work on Open Source & Open Hardware Projects
+- 🌱 Currently focusing on AI and Web development
 
 ## Skill Set
 
