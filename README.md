@@ -1,44 +1,97 @@
-<!--
-<h1>Greetings Folks, I'm <a  href="https://blog.sriharshamvs.com/">Sriharsha MVS</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
--->
-<h1>Greetings Folks, I'm <a  href="https://blog.sriharshamvs.com/">Sriharsha Mopidevi</a></h1>
+# Hi there, I'm Sriharsha Mopidevi 👋
 
-- :briefcase: I'm working as a Software Engineer at University of Pennsylvania
-- 🌱 Currently focusing on AI and Web development
+**Senior Application Developer** @ AI-4-AI Lab, Penn Medicine, University of Pennsylvania
 
-## Skill Set
+I'm a software engineer specializing in AI/ML applications for healthcare, building production systems that bridge clinical research and cutting-edge artificial intelligence. Currently leading development on the Observer platform for clinical observation and research data management.
 
-### Programming Languages
+## 🚀 What I Do
 
-| <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="C" width="40px" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/256px-C_Programming_Language.svg.png"> | <img title="MicroPython" alt="MicroPython" width="60px" src="https://raw.githubusercontent.com/micropython/micropython/master/logo/trans-logo.png" /> |
-|---|---|---|---|
+- **AI/ML Engineering**: Computer vision, NLP, LLMs, and machine learning pipelines for clinical applications
+- **Agentic Development**: Building autonomous AI systems and LLM-powered agents for healthcare workflows
+- **Fullstack Development**: Framework-agnostic approach across Python/Node.js/Go backends and React/Vue/Next.js frontends
+- **Healthcare Technology**: De-identification systems, clinical data platforms, and FAIR repositories
+- **Research Software Engineering**: Translating complex AI research into scalable production systems
 
-### Libraries and Frameworks
+## 🧠 Research Interests
 
-|<img title="NodeJS" alt="NodeJS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png">|<img title="ReactJS" width="60px" alt="ReactJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">|<img title="VueJS" width="40px" alt="VueJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png">|<img title="Flask" width="70px" alt="Flask" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/256px-Flask_logo.svg.png">|<img title="Django" width="70px" alt="Django logo" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png">|<img title="Pandas" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas">|<img title="JAMstack" width="100px" alt="JAMstack" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jamstack_logo.svg/512px-Jamstack_logo.svg.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="PyQt" width="40px" alt="PyQt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/128px-Python_and_Qt.svg.png">|<img titile="ElectronJS" width="40px" alt="ElectronJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">|
-|---|---|---|---|---|---|---|---|---|---|---|---|
+- **Large Language Models**: LLM application development, prompt engineering, agentic workflows
+- **Computer Vision**: Video understanding, object detection, privacy-preserving visual AI
+- **Natural Language Processing**: Clinical text processing, PHI detection, speaker identification
+- **Multimodal AI**: Video question answering, audio-visual analysis in healthcare
+- **Healthcare Informatics**: Clinical data privacy, FAIR data repositories, clinical workflow optimization
 
-### Cloud
+## 📚 Publications
 
-|<img title="Netlify" alt="Netlify" width="40px" src="https://www.netlify.com/img/press/logos/logomark.png">|<img title="Vercel" alt="Vercel" width="60px" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png">|
-|---|---|
+- **Mopidevi, S.**, Jang, K.J., Alasaly, B., Pugh, S., Park, J., Batugo, A., Hwang, S., Eaton, E., Mowery, D.L., & Johnson, K.B. (2025). "MedVidDeID: Protecting Privacy in Clinical Encounter Video Recordings." *Journal of Biomedical Informatics*, 170. [DOI](https://doi.org/10.1016/j.jbi.2025.104901)
 
-### Databases
+- Johnson, K.B., Alasaly, B., Jang, K.J., Eaton, E., **Mopidevi, S.**, & Koppel, R. (2026). "Observer: Creation of a Novel Multimodal Dataset for Outpatient Care Research." *Journal of the American Medical Informatics Association*, 33(2), 424-433. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12844583/)
 
-|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="Postgresql" alt="SQL" width="40px" alt="Postgresql" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/512px-Postgresql_elephant.svg.png">|
-|---|---|---|
+- Park, J., Jang, K.J., Alasaly, B., **Mopidevi, S.**, Zolensky, A., Eaton, E., Lee, I., & Johnson, K. (2025). "Assessing Modality Bias in Video Question Answering Benchmarks with Multimodal Large Language Models." *Proceedings of the AAAI Conference on Artificial Intelligence*, 39(19), 19821-19829.
 
-### OS and Tools
+- Zolensky, A., Jang, K.J., Sabin, J., Hartzler, A., Alasaly, B., **Mopidevi, S.**, Liberman, M., & Johnson, K. (2025). "Speaker Role Identification in Clinical Conversations." *Biocomputing 2026: Proceedings of the Pacific Symposium*, 144-157.
 
-|<img title="Debain" width="40px" alt="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/64px-Debian-OpenLogo.svg.png">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Lab" alt="Jupyter Lab" width="40px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">|
-|---|---|---|---|
+- Jang, K.J., Bhatti, S., Pugh, S., Maduno, C., Sridhar, S., **Mopidevi, S.**, Eaton, E., & Johnson, K. (2025). "Towards a Real-time Clinical Agenda Setting System for Enhancing Clinical Interactions in Primary Care Visits." *Workshop on Large Language Models and Generative AI for Health at AAAI 2025*.
 
-### Hardware
+📖 [**Full Publication List on Google Scholar**](https://scholar.google.com/citations?user=k_4pvKcAAAAJ&hl=en)
 
-|<img title="OpenSourceHardware" alt="OpenSourceHardware" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/512px-Open-source-hardware-logo.svg.png">|<img title="Jupyter Lab" alt="Jupyter Lab" width="60px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png">|<img title="WebOfThings" alt="WebOfThings" width="40px" src="https://www.w3.org/WoT/IG/wiki/images/thumb/9/9d/WOT-white.png/120px-WOT-white.png">|<img title="KiCad" width="60px" alt="KiCad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/256px-KiCad-Logo.svg.png">|
-|---|---|---|---|
+## 💻 Tech Stack
 
-## Let's Connect :handshake:
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-|<a href="https://www.linkedin.com/in/sriharshamvs/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/sriharshamvs"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/MVSsriharsha"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:sriharshamvs@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
-|---|---|---|---|
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### AI/ML & Data
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 🎯 Current Focus
+
+- **LLM & Agentic AI**: Building autonomous AI agents and LLM-powered systems for clinical workflows
+- **AI/ML Research**: Computer vision, multimodal models, and NLP for clinical applications
+- **Clinical Data Pipelines**: Optimizing ML workflows on Databricks for healthcare research
+- **Privacy-Preserving AI**: Building FAIR-compliant data repositories with automated de-identification
+- **Healthcare Software**: Observer platform development and cross-lab research collaboration tools
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriharshamvs/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sriharshamvs)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.sriharshamvs.com/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sriharshamvs@gmail.com)
+
+---
+
+*Senior Application Developer building AI/ML systems for healthcare innovation*
