@@ -8,7 +8,7 @@ I'm a software engineer specializing in AI/ML applications for healthcare, build
 
 - **AI/ML Engineering**: Computer vision, NLP, LLMs, and machine learning pipelines for clinical applications
 - **Agentic Development**: Building autonomous AI systems and LLM-powered agents for healthcare workflows
-- **Fullstack Development**: Framework-agnostic approach across Python/Node.js/Go backends and React/Vue/Next.js frontends
+- **Fullstack Development**: Versatile across tech stacks - backend (Python, Node.js, Go) and frontend (React, Vue, Next.js)
 - **Healthcare Technology**: De-identification systems, clinical data platforms, and FAIR repositories
 - **Research Software Engineering**: Translating complex AI research into scalable production systems
 
@@ -40,14 +40,17 @@ I'm a software engineer specializing in AI/ML applications for healthcare, build
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -84,6 +87,10 @@ I'm a software engineer specializing in AI/ML applications for healthcare, build
 - **Clinical Data Pipelines**: Optimizing ML workflows on Databricks for healthcare research
 - **Privacy-Preserving AI**: Building FAIR-compliant data repositories with automated de-identification
 - **Healthcare Software**: Observer platform development and cross-lab research collaboration tools
+
+## 🌌 Beyond Code
+
+When I'm not building AI systems, I'm exploring the cosmos - astrophysics, cosmology, and the fundamental questions about our universe.
 
 ## 📫 Let's Connect
 
